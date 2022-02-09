@@ -12,7 +12,7 @@
   "prefix": "Nhập prefix của bạn cho bot"
 ```
 
-##Cài thư viện và chạy bot
+## Cài thư viện và chạy bot
 
 Để cài thư viện cho bot:
 ```
