@@ -13,6 +13,7 @@
 ```
 
 ##Cài thư viện và chạy bot
+
 Để cài thư viện cho bot:
 ```
 npm i
